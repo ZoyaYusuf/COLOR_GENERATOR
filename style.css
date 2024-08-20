@@ -1,0 +1,54 @@
+#container {
+    margin-left: 25%;
+    height: 100vh;
+    width: 100vw;
+    background-image: url(_.jpeg);
+    background-size: cover;
+}
+
+#maindiv{
+    width: 50%;
+    height: 100%;
+    margin-left: 25%;
+    position: absolute;
+}
+
+
+
+h1{
+    color: black;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: underline;
+    background-color: rgba(240, 255, 255, 0.297);
+
+
+}
+
+h3{
+    color: black;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+
+#btn{
+    color: white;
+    margin-top: 10px;
+    margin-left: 250px;
+    height: 50px;
+    width: 200px;
+    border-color: rgb(228, 149, 228);
+    background-color: purple;
+    box-shadow: 3px 3px 8px rgb(228, 149, 228);
+
+}
+
+#color{
+    height: 500px;
+    width: 500px;
+    background-color: rgba(255, 255, 255, 0.692);
+    margin-top: 30px;
+    margin-left: 110px;
+    box-shadow: 3px 3px 8px black;
+}
